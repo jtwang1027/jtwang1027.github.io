@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Jason Wang"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/headshot.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student at Duke University studying Biomedical engineering"
   location         : "Durham, NC"
   email            :
