@@ -3,8 +3,8 @@ title: "Multiomics analysis of Cancer cell lines"
 date: 2019-12-25
 tags: [cancer, multiomics, proteomics, transcriptomics, genomics, single cell]
 header:
-  image: "/images/google_app_engine-icon.jpg"
-excerpt: "a"
+  image: "/images/dream_challenge.png"
+#excerpt: "a"
 mathjax: "true"
 ---
 
