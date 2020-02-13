@@ -23,7 +23,7 @@ This challenge involves analysis of the largest single cell signaling dataset (6
 ![dream](https://user-images.githubusercontent.com/46359281/71548582-88190c00-2965-11ea-97fd-6dedbb1eeb4a.png)
 
 
-https://www.synapse.org/#!Synapse:syn20366914/wiki/593925
+[(link)](https://www.synapse.org/#!Synapse:syn20366914/wiki/593925)
 
 This analysis will be broken down into:
 
@@ -31,6 +31,6 @@ This analysis will be broken down into:
 
 2. Investigating feature importance in predicting phosphorylation changes in response to drug treatment using elastic net (ridge, LASSO) and tree-based models (random forests, xgboost) [(link)](https://github.com/jtwang1027/cancer_omics/blob/master/2A_elastic_net.ipynb)
 
-3. Prediction using neural networks [(link)] (https://github.com/jtwang1027/cancer_omics/blob/master/3_neural_network.ipynb)
+3. Prediction using neural networks [(link)](https://github.com/jtwang1027/cancer_omics/blob/master/3_neural_network.ipynb)
 
 4. Prediction using automl (tpot) with comparison to the above models. 
