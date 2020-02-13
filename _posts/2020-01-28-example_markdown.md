@@ -1,9 +1,9 @@
 ---
 title: "Continuous delivery using Google App Engine"
 date: 2018-01-28
-tags: [google app engine, continuous delivery, flask, google cloud platform]
+tags: [data wrangling, data science, messy data]
 header:
-  image: "/images/google_app_engine-icon.jpg"
+  image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
@@ -18,4 +18,4 @@ Google's App Engine was used to build and deploy a web application using the key
 -*cleaned.csv* : contains symptoms and diagnosis data. This was pulled from kaggle (https://www.kaggle.com/plarmuseau/sdsort).   
 -*cloudbuild.yaml* : builds the application  
 
-To see a demo of this web app, view the demo mp4 video.[(link)](https://github.com/jtwang1027/contint)  
+To see a demo of this web app, view the demo mp4 video.[(link)](https://github.com/jtwang1027/contint)
