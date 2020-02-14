@@ -17,4 +17,4 @@ Starting from the expression matrix (ie output from DESeq2 or EdgeR):
 
 3. Calling heatmap.2 
 
-Example code can be found here.test
+Example code can be found here.test2
