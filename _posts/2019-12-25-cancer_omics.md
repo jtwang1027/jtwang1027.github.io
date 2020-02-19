@@ -3,7 +3,7 @@ title: "Multiomics analysis of cancer cell lines"
 date: 2019-12-25
 tags: [cancer, multiomics, proteomics, transcriptomics, genomics, single cell]
 header:
-  image: "/images/dream_challenge.png"
+  image: "/images/cancer_omics/dream_challenge.png"
 #excerpt: "a"
 mathjax: "true"
 ---
@@ -32,5 +32,7 @@ This analysis will be broken down into:
 2. Investigating feature importance in predicting phosphorylation changes in response to drug treatment using elastic net (ridge, LASSO) and tree-based models (random forests, xgboost) [(link)](https://github.com/jtwang1027/cancer_omics/blob/master/2A_elastic_net.ipynb)
 
 3. Prediction using neural networks [(link)](https://github.com/jtwang1027/cancer_omics/blob/master/3_neural_network.ipynb)
+![alt text](../images/cancer_omics/tensorboard.png "tensorboard")
+
 
 4. Prediction using automl (tpot) with comparison to the above models. 
