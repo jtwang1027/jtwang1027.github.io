@@ -28,11 +28,11 @@ This challenge involves analysis of the largest single cell signaling dataset (6
 This analysis will be broken down into:
 
 1. Exploratory data analysis: Examining time-dependent drug responses and identifying similarities in cell lines. [(link)](https://github.com/jtwang1027/cancer_omics/blob/master/1_EDA_cell_line_exploration.ipynb) 
-<img src="../images/cancer_omics/pca-cell_line.png" alt="tensorboard" width="800"/>
+<img src="../images/cancer_omics/pca-cell_line.png" alt="PCA by cell line" width="500"/>
 
 
 2. Investigating feature importance in predicting phosphorylation changes in response to drug treatment using elastic net (ridge, LASSO) and tree-based models (random forests, xgboost) [(link)](https://github.com/jtwang1027/cancer_omics/blob/master/2A_elastic_net.ipynb) 
-<img src="../images/cancer_omics/feature_importance.png" alt="xgboost feature importance" width="1000"/> 
+<img src="../images/cancer_omics/feature_importance.png" alt="xgboost feature importance" width="500"/> 
 
 
 3. Prediction using neural networks [(link)](https://github.com/jtwang1027/cancer_omics/blob/master/3_neural_network.ipynb) 
