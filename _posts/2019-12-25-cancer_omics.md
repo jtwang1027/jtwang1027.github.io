@@ -32,7 +32,7 @@ This analysis will be broken down into:
 2. Investigating feature importance in predicting phosphorylation changes in response to drug treatment using elastic net (ridge, LASSO) and tree-based models (random forests, xgboost) [(link)](https://github.com/jtwang1027/cancer_omics/blob/master/2A_elastic_net.ipynb)
 
 3. Prediction using neural networks [(link)](https://github.com/jtwang1027/cancer_omics/blob/master/3_neural_network.ipynb)
-![alt text](../images/cancer_omics/tensorboard.png "tensorboard")
+<img src="../images/cancer_omics/tensorboard.png" alt="tensorboard" width="200"/>
 
 
 4. Prediction using automl (tpot) with comparison to the above models. 
