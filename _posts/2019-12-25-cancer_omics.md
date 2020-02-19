@@ -1,5 +1,5 @@
 ---
-title: "Multiomics analysis of Cancer cell lines"
+title: "Multiomics analysis of cancer cell lines"
 date: 2019-12-25
 tags: [cancer, multiomics, proteomics, transcriptomics, genomics, single cell]
 header:
