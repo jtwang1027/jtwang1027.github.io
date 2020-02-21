@@ -2,7 +2,8 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/kalen-emsley-unsplash.jpg"
+  caption: "Photo credit: Kalen Emsley"
 ---
 
 Born in CA, I did my undergraduate studies in bioengineering at UC Berkeley working on biomaterials and 3D models for heart development (1-4). During my PhD,
