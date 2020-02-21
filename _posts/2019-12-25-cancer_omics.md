@@ -4,6 +4,7 @@ date: 2019-12-25
 tags: [cancer, multiomics, proteomics, transcriptomics, genomics, single cell]
 header:
   image: "/images/cancer_omics/dream_challenge.png"
+  caption: "Photo credit: DREAM Challenge"
 #excerpt: "a"
 mathjax: "true"
 ---
