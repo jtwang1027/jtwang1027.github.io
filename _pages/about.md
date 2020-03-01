@@ -19,3 +19,6 @@ __*UC Berkeley*__
 5.	Khodabukus, A., Prabhu, N., Wang, J., et al., 2018. In Vitro Tissue-Engineered Skeletal Muscle Models for Studying Muscle Physiology and Disease. **Advanced Healthcare Materials**
 6. Juhas, M., Abutaleb N., Wang, J., et al.,2018. Incorporation of macrophages into engineered skeletal muscle enables enhanced muscle regeneration. **Nature biomedical engineering**.
 
+*In vitro model for screening drugs for heart development* [1]
+![image](https://user-images.githubusercontent.com/46359281/75621097-589da000-5b5e-11ea-8c2d-883d79edd9e6.png)
+
