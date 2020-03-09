@@ -4,6 +4,7 @@ date: 2019-12-25
 tags: [data visualization, rna-seq, transcriptomics, heatmap]
 header:
   image: "/images/nasa_unsplash.png"
+  caption: "Photo credit: NASA"
 #excerpt: "a"
 mathjax: "true"
 ---
