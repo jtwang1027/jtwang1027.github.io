@@ -21,13 +21,13 @@ We will explore 2 workflows:
 
 
 ## Results from integrating 8 scRNA Seq datasets
-__Uncorrected__
+__Uncorrected__  
 ![uncorrected-batch-umap](https://user-images.githubusercontent.com/46359281/78103558-3dbb8700-73bb-11ea-99ff-e6ade122613b.jpeg)
 
-__MNN__ 
+__MNN__  
 ![MNN-integrated-umap](https://user-images.githubusercontent.com/46359281/78103613-588dfb80-73bb-11ea-8b66-df7824595c8c.jpeg)
 
-__Seurat__
+__Seurat__  
 ![seurat-integrated-umap](https://user-images.githubusercontent.com/46359281/78180679-1bfce700-7431-11ea-8557-75e01a235bc3.jpeg)
 
 
