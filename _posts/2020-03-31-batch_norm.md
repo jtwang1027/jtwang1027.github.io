@@ -28,7 +28,7 @@ __MNN__
 ![MNN-integrated-umap](https://user-images.githubusercontent.com/46359281/78103613-588dfb80-73bb-11ea-8b66-df7824595c8c.jpeg)
 
 __Seurat__
-![seurat-integrated-umap](https://user-images.githubusercontent.com/46359281/78103651-73f90680-73bb-11ea-994c-38b7e5e0dac9.jpeg)
+![seurat-integrated-umap](https://user-images.githubusercontent.com/46359281/78180679-1bfce700-7431-11ea-8557-75e01a235bc3.jpeg)
 
 
 
