@@ -34,11 +34,11 @@ __Seurat anchors (Stuart,2019)__
 
 
 ## Cell type annotation
-We compared 3 approaches for cell type annotation: CellMarkers database, Panglao database, and using gene set enrichment. We found CellMarkers to be most informative in this context.
+We compared 3 approaches for cell type annotation: CellMarkers database, Panglao database, and using gene set enrichment. We found CellMarkers to be the most informative in this context.
 
 ### CellMarkers
-CellMarker [(paper)](https://academic.oup.com/nar/article/47/D1/D721/5115823) is manually curated from over 100k papers, including >13k cell markers of 467 cell types spanning 158 tissues [(db link)](http://biocc.hrbmu.edu.cn/CellMarker/). This dataset can easily be downloaded and compared against the top markers. Here, we used *Human cell markers* (Human_cell_markers.txt), which assigns single genes (and respective proteins) to a corresponding cell and tissue type. As another option, *Single cell markers* (Single_cell_markers.txt), is derived from scRNA seq data and assigns multiple markers per cell type.
+CellMarker [(paper)](https://academic.oup.com/nar/article/47/D1/D721/5115823) is manually curated from over 100k papers, including >13k cell markers of 467 cell types spanning 158 tissues [(db link)](http://biocc.hrbmu.edu.cn/CellMarker/). This dataset can easily be downloaded and compared against the top markers from each cluster. Here, we used *Human cell markers* (Human_cell_markers.txt), which assigns single genes (and respective proteins) to a corresponding cell and tissue type. As another option, *Single cell markers* (Single_cell_markers.txt), is derived from scRNA seq data and assigns multiple markers per cell type.
 
 ### Gene set ORA (over-representation analysis)
-As another approach, we tested for gene set enrichment with the expectation of finding significant biological processes that would be unique to a specific cell / tissue type. Using the Gene Ontology database and signifcant differentially expressed top markers from each cluster, we applied *goana* for over-representation analysis. The results can be found in *enriched_gene_sets_by_cluster.rds*.
+As another approach, we tested for gene set enrichment with the expectation of finding significant biological processes that would be unique to a specific cell / tissue type. Using the Gene Ontology database and signifcant differentially expressed genes from each cluster, we applied *goana* for over-representation analysis. The results can be found in *enriched_gene_sets_by_cluster.rds*.
 
