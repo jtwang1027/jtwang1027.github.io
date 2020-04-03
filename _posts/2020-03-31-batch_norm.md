@@ -32,7 +32,6 @@ __Seurat anchors (Stuart,2019)__
 ## Clustering 
 
 
-
 ## Cell type annotation
 We compared 3 approaches for cell type annotation: CellMarkers database, Panglao database, and using gene set enrichment. We found CellMarkers to be the most informative in this context.
 
