@@ -1,7 +1,7 @@
 ---
 title: "PySpark in AWS for predicting small molecule IC50"
 date: 2020-04-10
-tags: [distributed computing, AWS, pyspark, moleculenet, deepchem, rdkit,cloud computing,machine learning, EMR, molecule2vec]
+tags: [distributed computarn:aws:sns:us-west-2:921410043255:new_postsing, AWS, pyspark, moleculenet, deepchem, rdkit,cloud computing,machine learning, EMR, molecule2vec]
 
 header:
   image: "/images/nasa-unsplash.jpg"
@@ -53,6 +53,6 @@ I'll break the PySpark workflow down into a few components.
 - Elastic Net with hyperparameter tuning
 - Gradient boosted trees
 
-5) Visualization
+5)Evaluation & Visualization
  ![gbtree](https://user-images.githubusercontent.com/46359281/78973310-a1d9fb80-7add-11ea-8261-9f8b34b41b41.png)
 
