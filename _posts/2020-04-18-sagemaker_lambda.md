@@ -4,10 +4,10 @@ date: 2020-04-18
 tags: [AWS, lambda, cloudwatch, autopilot ,moleculenet, cloud computing,machine learning, sagemaker]
 
 header:
-  image: "/images/sagemaker_lambda/sagemaker_icon.jpg"
+  image: "/images/sagemaker_lambda/sagemaker_icon.png"
   caption:
 excerpt: ""
-mathjax: "true"
+mathjax: "false"
 ---
 
  
