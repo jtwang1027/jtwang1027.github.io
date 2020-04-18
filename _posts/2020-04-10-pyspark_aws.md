@@ -1,7 +1,7 @@
 ---
 title: "PySpark in AWS for predicting small molecule IC50"
 date: 2020-04-10
-tags: [distributed computarn:aws:sns:us-west-2:921410043255:new_postsing, AWS, pyspark, moleculenet, deepchem, rdkit,cloud computing,machine learning, EMR, molecule2vec]
+tags: [distributed computing, AWS, pyspark, moleculenet, deepchem, rdkit,cloud computing,machine learning, EMR, molecule2vec]
 
 header:
   image: "/images/nasa-unsplash.jpg"
