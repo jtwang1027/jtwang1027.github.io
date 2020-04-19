@@ -7,7 +7,7 @@ header:
   image: "/images/sagemaker_lambda/sagemaker_icon.png"
   caption:
 excerpt: ""
-mathjax: "false"
+mathjax: "true"
 ---
 
  
