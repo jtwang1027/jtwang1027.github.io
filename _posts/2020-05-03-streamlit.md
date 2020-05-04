@@ -1,7 +1,8 @@
 ---
-title: " AWS AutoML model generation with scheduled retraining via AWS Cloudwatch and Lambda"
-date: 2020-04-18
-tags: [AWS, lambda, cloudwatch, autopilot ,moleculenet, cloud computing,machine learning, sagemaker]
+
+title: "Streamlit app for image classification and data viz with load testing"
+date: 2020-05-03
+tags: [google cloud computing, load testing, cloud computing, kubernetes, pytorch, web application ,machine learning]
 header:
   image: "/images/nasa-unsplash.jpg"
   caption: "Photo credit: NASA (unsplash.com)"

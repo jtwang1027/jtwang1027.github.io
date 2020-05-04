@@ -1,8 +1,7 @@
 ---
-title: "Streamlit app for image classification and data viz with load testing"
+title: " AWS AutoML model generation with scheduled retraining via AWS Cloudwatch and Lambda"
 date: 2020-04-18
-tags: [google cloud computing, load testing, cloud computing, kubernetes, pytorch, web application ,machine learning]
-
+tags: [AWS, lambda, cloudwatch, autopilot ,moleculenet, cloud computing,machine learning, sagemaker]
 header:
   image: 
   caption:
