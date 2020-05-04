@@ -1,6 +1,6 @@
 ---
 
-title: "Streamlit app for image classification and data viz with load testing"
+title: "Streamlit app for image classification and model evaluation with load testing on GCP"
 date: 2020-05-03
 tags: [google cloud computing, load testing, cloud computing, kubernetes, pytorch, web application ,machine learning]
 header:
