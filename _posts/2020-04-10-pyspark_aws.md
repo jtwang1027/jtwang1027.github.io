@@ -1,5 +1,5 @@
 ---
-title: "PySpark in AWS for predicting small molecule IC50"
+title: "PySpark in AWS for predicting small molecule pIC50"
 date: 2020-04-10
 tags: [distributed computing, AWS, pyspark, moleculenet, deepchem, rdkit,cloud computing,machine learning, EMR, molecule2vec]
 
@@ -29,12 +29,12 @@ From  my own experience, the bootstrapping can add an unusually long amount of t
 If amenable to your application, spot instances are great way to save on running these clusters. You can set the max percentage of the original price that you're willing to pay, but it will kick you off with a 1min notice if the resource is needed.
 <img width="260" alt="aws-cluster_setup-spot_inst" src="https://user-images.githubusercontent.com/46359281/78968180-f5dee300-7ad1-11ea-8da4-b2c732dd3c26.png">
 
-## Background on IC50 prediction
+## Background on pIC50 prediction
 
-MoleculeNet [(paper,](https://arxiv.org/abs/1703.00564)[website)](http://moleculenet.ai/) is a benchmark established by Vijay Pande's group at Stanford for molecular machine learning. MoleculeNet curates data from multiple public sources, such as ChEMBL, to establish 4 categories for molecular-based machine learning: quantum mechanics, physical chemistry, biophysics, and physiology. The benchmark showcases the performance of various types of models and chemical featurizations. Here, the BACE dataset will be used, which contains IC50 values for chemical inhibitors of human beta-secretase 1 (BACE-1).
+MoleculeNet [(paper,](https://arxiv.org/abs/1703.00564)[website)](http://moleculenet.ai/) is a benchmark established by Vijay Pande's group at Stanford for molecular machine learning. MoleculeNet curates data from multiple public sources, such as ChEMBL, to establish 4 categories for molecular-based machine learning: quantum mechanics, physical chemistry, biophysics, and physiology. The benchmark showcases the performance of various types of models and chemical featurizations. Here, the BACE dataset will be used, which contains pIC50 values for chemical inhibitors of human beta-secretase 1 (BACE-1).
 
 ### Featurization and ML in cheminformatics
-Rdkit and deepchem are great packages for cheminformtaics and machine learning, and they incorporate functions for featurizing chemical data (such as using extended connectivity fingerprints)as well as generating machine learning models, including graph convolutional networks. Here, we explore an approach for representing molecules as vectors (mol2vec)[(paper)](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00616). Mol2vec is inspired by NLP techniques like word2vec, and learns vector representations of molecular substructures. Here,the pre-trained model was applied to the BACE dataset to see if it could improve IC50 prediction.
+Rdkit and deepchem are great packages for cheminformtaics and machine learning, and they incorporate functions for featurizing chemical data (such as using extended connectivity fingerprints)as well as generating machine learning models, including graph convolutional networks. Here, we explore an approach for representing molecules as vectors (mol2vec)[(paper)](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00616). Mol2vec is inspired by NLP techniques like word2vec, and learns vector representations of molecular substructures. Here,the pre-trained model was applied to the BACE dataset to see if it could improve pIC50 prediction.
 
 ## PySpark General workflow
 
