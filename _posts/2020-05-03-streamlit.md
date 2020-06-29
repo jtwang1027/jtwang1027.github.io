@@ -11,9 +11,6 @@ mathjax: "true"
 ---
 
 
-# Streamlit App for visualizing image classification performance on Kubernetes
-
-*Completed with: [Nathan Tian](https://github.com/Tian372), [Jimmy Lee](https://github.com/jimmyshuyulee)*
 
 ## Motivation
 Imagenet is an image database for visual object recognition. It contains more than 14 million hand-annotated images. Various types of models have been developed to with great accuracy including: ResNeXt 152, Densenet 201, Darknet, AlexNet, VGG-16. Here, we have used a computationally light convolutional neural network--MobileNet. After training a model, it's important to be able to visualize the results. Summary metrics are helpful, but being able to directly examine specific images or categories may help better understand the model--especially in the case on image data. 
@@ -104,4 +101,7 @@ The testing result shows that our server is able to server up to about **850 req
 
 
 
-Repository Link [here](https://github.com/jtwang1027/streamlit_classification) 
+Repository Link [here](https://github.com/jtwang1027/streamlit_classification)
+
+*Completed with: [Nathan Tian](https://github.com/Tian372), [Jimmy Lee](https://github.com/jimmyshuyulee)*
+ 
