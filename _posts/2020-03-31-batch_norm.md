@@ -29,7 +29,9 @@ __Mutual nearest neighbors (Haghverdi, 2018)__
 __Seurat anchors (Stuart,2019)__  
 ![seurat-integrated-umap](https://user-images.githubusercontent.com/46359281/78180679-1bfce700-7431-11ea-8557-75e01a235bc3.jpeg)
 
-## Clustering 
+## Seurat Clustering 
+
+![seurat-cluster_number-umap](https://user-images.githubusercontent.com/46359281/88767774-18137400-d148-11ea-9eb6-cff39411cf08.jpeg)
 
 
 ## Cell type annotation using CellMarkers
