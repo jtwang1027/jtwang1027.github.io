@@ -11,7 +11,7 @@ mathjax: "true"
 
  [repository link](https://github.com/NCBI-Codeathons/Diversifying-the-pipeline-for-identifying-bulk-RNA-seq-derived-biomarkers-of-cancer-risk-within-sing/tree/master/batch_normalization)
 
-## Background and Objective
+## Background and Objective 
 scRNA-Seq data was generated from 8 high-grade glioma tumor patients (Yuan et al., 2018) [paper](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-018-0567-9). In this study, datasets were explored separately, and the findings were pooled for a unified conclusion. Here, we will integrate the datasets, accounting for batch effects using mutual nearest neighbhors or Seurat's anchors-based MNN. Next, we will use information from the combined dataset to identify cell types and markers & differentially enriched gene sets (see *Cluster Annotation* below).
 
 ## Batch normalization for integrating 8 scRNA Seq datasets
