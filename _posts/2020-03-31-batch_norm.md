@@ -27,7 +27,8 @@ __Mutual nearest neighbors (Haghverdi, 2018)__
 ![MNN-integrated-umap](https://user-images.githubusercontent.com/46359281/78103613-588dfb80-73bb-11ea-8b66-df7824595c8c.jpeg)
 
 __Seurat anchors (Stuart,2019)__  
-![seurat-integrated-umap](https://user-images.githubusercontent.com/46359281/78180679-1bfce700-7431-11ea-8557-75e01a235bc3.jpeg)
+![seurat-integrated-umap](https://user-images.githubusercontent.com/46359281/88940156-6febd100-d255-11ea-95d2-9979f428e002.png)
+
 
 ## Seurat Clustering 
 
