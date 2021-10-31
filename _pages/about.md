@@ -11,7 +11,7 @@ I have worked on building in vitro models and applying RNA-seq to study skeletal
 
 
 ### Publications:  
-1. Wang, J., et ali, 2021. Three-dimensional tissue-engineered human skeletal muscle model of Pompe disease. **Communications Biology- Nature**
+1. Wang, J., et al, 2021. Three-dimensional tissue-engineered human skeletal muscle model of Pompe disease. **Communications Biology- Nature**
 2. Ma, Z.&, Wang, J.&, Loskill, P., Huebsch, N., Koo, S., Svedlund, F.L., Marks, N.C., Hua, E.W., Grigoropoulos, C.P., Conklin, B.R. and Healy, K.E., 2015. Self-organizing human cardiac microchambers mediated by geometric confinement. **Nature Communications**, 6. 		&equally contributing co-1st authors
 3. Maclean, Lau, Ozergun, O’Shea, Wang J., et al., 2017. Galactose-functionalised PCL nanofibre scaffolds to attenuate inflammatory action of astrocytes in vitro and in vivo. **Journal of Materials Chemistry B**
 4.	Hoang, P., Wang, J., et al.,2018. Generation of spatial-patterned early-developing cardiac organoids using human pluripotent stem cells. **Nature Protocols**. 
